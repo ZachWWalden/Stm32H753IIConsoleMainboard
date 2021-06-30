@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name STM32H753II-Breakout-Board-rescue)(type Legacy)(uri "${KIPRJMOD}/STM32H753II Breakout Board-rescue.lib")(options "")(descr ""))
+)
